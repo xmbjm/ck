@@ -3,6 +3,8 @@ https://cdn.gitmirror.com/gh/xmbjm/ck/main/ck.json
 
 https://github.ednovas.xyz/https://github.com/xmbjm/ck/blob/main/ck.json
 
+https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/ck/main/ck.json
+
 # 拾光的小仓库
 # 自用随意拷贝
 # 切勿贩卖
