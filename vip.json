@@ -1,0 +1,18 @@
+{
+    "force_refresh": 0,
+    "source": "https://gitee.com/xmbjmjk/ck/raw/master/ck.json",
+    "app_message": "本APP以及「拾光线路」均为免费开源项目, 仅供测试, 请勿付费购买！\n播放时若出现广告均为三方插入, 与本公众号无关，请勿上当!",
+    "filter": [
+        "王二小放牛娃.xyz",
+        "神秘的哥哥们",
+        "|",
+        "｜",
+        "防失联",
+        "关注",
+        "【",
+        "】",
+        "┃ "
+    ],
+    "prefix": "★拾光专享★",
+    "title": "公众号「拾光趣乐屋」"
+} 
