@@ -1,4 +1,9 @@
 # 关注公众号：拾光趣乐屋
+
+①号坑https://xmbjm.github.io/ck.json
+②号坑http://xmbjm.fh4u.org/ck.txt
+③号坑：https://d.kstore.dev/download/4708/ck.json
+
 https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/ck/main/ck.json
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/ck/main/ck.json
